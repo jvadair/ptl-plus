@@ -9,3 +9,6 @@
 `- Fractions not supported`
 
 `- Equation for line must be entered exactly`
+
+## Demo Video
+[![Demo Video](https://img.youtube.com/vi/oPSdrFrgr4s/0.jpg)](https://www.youtube.com/watch?v=oPSdrFrgr4s)
