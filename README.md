@@ -13,7 +13,7 @@
 ## Demo Video
 [![Demo Video](https://img.youtube.com/vi/oPSdrFrgr4s/0.jpg)](https://www.youtube.com/watch?v=oPSdrFrgr4s)
 
-##Vanilla
+## Vanilla
 ### PTL+ uses only vanilla python libraries
 `sleep` from time
 `sqrt` from math
